@@ -4,7 +4,7 @@ This project focuses on predicting heart disease from clinical data by implement
 
 ---
 
-## 🩺 Project Overview
+## Project Overview
 
 The goal of this project is to build and evaluate classifiers that can identify the presence of heart disease based on patient data such as age, cholesterol, resting blood pressure, chest pain type, and other features.
 
@@ -12,7 +12,7 @@ Rather than using prebuilt ML libraries, all models were implemented manually us
 
 ---
 
-## 🧠 Models Implemented
+## Models Implemented
 
 - **Naïve Bayes**
 - **Perceptron**
@@ -27,7 +27,7 @@ Each model includes:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Python**
 - **NumPy** – for numerical operations and matrix computations
@@ -36,7 +36,7 @@ Each model includes:
 
 ---
 
-## 📊 Results
+## Results
 
 After training and testing on the heart disease dataset:
 - Models were compared based on classification accuracy.
@@ -46,6 +46,6 @@ After training and testing on the heart disease dataset:
 
 ---
 
-📁 Files Included
+## Files Included
 - `heart_disease_prediction.ipynb` – main notebook with model implementations, analysis, and results  
 - `Heart_Disease_dataset.csv` – dataset used
